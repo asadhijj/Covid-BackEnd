@@ -2,7 +2,7 @@
 ## Author : ASAD HIJAW
 
 ### Installation
- - git clone https://github.com/yourusername/backend.git
+ - git clone https://github.com/asadhijj/backend.git
  - pip install -r requirements.txt
  - python manage.py migrate (to set up the database)
  - python manage.py runserver (to start the server)
